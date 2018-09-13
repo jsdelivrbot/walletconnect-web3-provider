@@ -2,9 +2,4 @@
 
 This implements provider for walletconnect standard.
 
-You can read more about WalletConnect standard here: http://walletconnect.org/
-
-## Example
-
-```js
-```
+**[DEPRECATED]** Please refer to [WalletConnect Monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
